@@ -12,3 +12,7 @@ pmill/php-plesk contributors
 * **[carlswart](https://github.com/carlswart)**
 
   * ListDNS
+
+* **[erikk1986](https://github.com/erikk1986)**
+
+  * Sessions
